@@ -45,10 +45,12 @@ We created a simple and explainable scoring model:
 - `wallet_credit_scores.csv`: Wallet addresses with their calculated credit score (https://drive.google.com/file/d/1-NpkDt-CaU9lZvWWAe-WArSUJGIRw88N/view?usp=sharing)
 
 Example:
-userWallet                                    credit_score
-0x0000000002032370b971dabd36d72f3e5a7bf1ee    521
-0x000000000096026fb41fc39f9875d164bd82e2dc    476
-0x0000000000e189dd664b9ab08a33c4839953852c    471
+
+| userWallet                                  | credit_score |
+|--------------------------------------------|--------------|
+| 0x0000000002032370b971dabd36d72f3e5a7bf1ee | 521          |
+| 0x000000000096026fb41fc39f9875d164bd82e2dc | 476          |
+| 0x0000000000e189dd664b9ab08a33c4839953852c | 471          |
 
 
 
