@@ -55,4 +55,4 @@ A histogram was generated to visualize the score distribution using `seaborn` an
 
 ```python
 sns.histplot(features_df['credit_score'], bins=10, kde=True)
-<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/c822fc82-665c-4890-a8f2-8b2b76b62916" />
+
